@@ -1,6 +1,6 @@
 package sort
 
-// For sorting out the elements
+// BubbleSort will be For sorting out the elements
 func BubbleSort(elements []int) {
 	keepWorking := true
 
