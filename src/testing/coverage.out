@@ -1,0 +1,9 @@
+mode: set
+github.com/Tukei-David/testinggo/src/testing/main.go:5.30,6.9 1 1
+github.com/Tukei-David/testinggo/src/testing/main.go:18.2,18.18 1 1
+github.com/Tukei-David/testinggo/src/testing/main.go:7.13,8.20 1 1
+github.com/Tukei-David/testinggo/src/testing/main.go:9.14,10.16 1 1
+github.com/Tukei-David/testinggo/src/testing/main.go:11.14,12.17 1 1
+github.com/Tukei-David/testinggo/src/testing/main.go:13.15,14.15 1 1
+github.com/Tukei-David/testinggo/src/testing/main.go:15.16,16.16 1 1
+github.com/Tukei-David/testinggo/src/testing/main.go:21.13,23.2 1 0
